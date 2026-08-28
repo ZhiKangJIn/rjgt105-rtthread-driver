@@ -1,0 +1,10 @@
+private-docs/
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.bin
+*.elf
+*.map
+.config
